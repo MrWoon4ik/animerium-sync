@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ADLaM Display';
+    src: local('ADLaM Display Regular'), local('ADLaMDisplay-Regular'),
+        url('https://cdn.glitch.global/80eea497-c3a5-4a5c-a814-ca7b1212802d/ADLaMDisplay-Regular.eot') format('embedded-opentype'),
+        url('https://cdn.glitch.global/80eea497-c3a5-4a5c-a814-ca7b1212802d/ADLaMDisplay-Regular.woff2') format('woff2'),
+        url('https://cdn.glitch.global/80eea497-c3a5-4a5c-a814-ca7b1212802d/ADLaMDisplay-Regular.woff') format('woff'),
+        url('https://cdn.glitch.global/80eea497-c3a5-4a5c-a814-ca7b1212802d/ADLaMDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

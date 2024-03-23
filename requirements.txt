@@ -1,0 +1,7 @@
+cloudscraper
+flask
+bs4
+urllib3==1.26.6
+gunicorn
+pycryptodome
+mega
